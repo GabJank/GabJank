@@ -1,2 +1,2 @@
-Estagiário de programação cursando ciência da computação na FSG.
+Full Stack da Dimelthoz cursando ciência da computação na FSG.
 
